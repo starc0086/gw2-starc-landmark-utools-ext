@@ -1,0 +1,14 @@
+{
+  "main": "index.html",
+  "preload": "preload.js",
+  "logo": "assets/gw2star-logo.png",
+  "features": [
+    {
+      "code": "landmark",
+      "explain": "探索点",
+      "cmds": [
+        "探索点"
+      ]
+    }
+  ]
+}
